@@ -1,0 +1,6 @@
+[book]
+authors = ["liubaixun"]
+language = "en"
+multilingual = false
+src = "src"
+title = "GO专家编程"
